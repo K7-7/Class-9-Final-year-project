@@ -164,6 +164,11 @@ img.image:hover {
         margin-bottom: 10px;
         border: none;
            margin: 10px;
+           >a{
+            text-decoration: none;
+            list-style: none;
+            color: black;
+           }
     }
     >button:hover{
         border: 1px solid black;
@@ -374,4 +379,47 @@ header .header-container p {
     .image{
         grid-template-columns: repeat(1,1fr);
     }
+}
+/*--Thanks--*/
+
+.thank button{
+        width: 50%;
+        border-radius: 20px;
+        padding: 20px;
+margin-left : 20%;
+border: none;
+    >a{
+        text-decoration: none;
+        list-style: none;
+        color: black;
+        font-size: 20px;
+        font-weight: 500;
+      
+    }
+    
+}
+.thank button:hover{
+    
+        cursor: pointer;
+        border: 1px solid black ;
+    
+}
+.thank-container{
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 20px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    >h1{
+        text-align: center;
+        font-weight: 900;
+    }
+    >h2{
+        font-size: 20px;
+        font-weight: 200;
+    }
+    
 }
