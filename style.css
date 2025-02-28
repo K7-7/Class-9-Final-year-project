@@ -6,15 +6,17 @@
 }
 body {
     position: relative;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 /*Navigation*/
 
 nav {
     background-color: #4f749e;
     padding: 10px;
+    
 
 }
+
 
 
 
@@ -33,9 +35,8 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
+ 
 }
-
 nav ul {
     list-style-type: none;
     display: flex;

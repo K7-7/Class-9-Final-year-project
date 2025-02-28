@@ -7,4 +7,4 @@
 ![alt text](CONTACT.png)
 ![alt text](NOTICE.png)
 ![alt text](NOTICE2.png)
-# Website of Himchuli academy
+# Website of Himchuli academy. 
